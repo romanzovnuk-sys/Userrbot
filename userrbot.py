@@ -4,7 +4,7 @@ import random
 import time
 
 api_id = 33293988
-api_hash = "YOUR_NEW_API_HASH"
+api_hash = "b9c729dbe75a396f6fc9637e4b57dfa0"
 
 bot = TelegramClient(
     "userbot",
